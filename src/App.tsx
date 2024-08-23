@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Header } from "./components/Header";
 import GuitarComponent, { Guitar } from "./components/Guitar"; // Asegúrate de importar 'Guitar' desde './components/Guitar'
 
